@@ -1,0 +1,28 @@
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" height="16" width="16" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<defs>
+<linearGradient id="linearGradient3978" y2="46.819" gradientUnits="userSpaceOnUse" x2="20.137" y1="-105.47" x1="20.137">
+<stop stop-color="#007fe5" offset="0"/>
+<stop stop-color="#007fe5" stop-opacity="0" offset="1"/>
+</linearGradient>
+</defs>
+<metadata>
+<rdf:RDF>
+<cc:Work rdf:about="">
+<dc:format>image/svg+xml</dc:format>
+<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+<dc:title/>
+</cc:Work>
+</rdf:RDF>
+</metadata>
+<g fill="#007fe5" transform="matrix(0.29022027,0,0,0.28555285,-10.555958,3.7492433)">
+<g fill="#007fe5" transform="matrix(0.5,0,0,-0.5,53.569304,-9.0258576)">
+<path d="m-0.01361,3.3746-29.625-19.375,20.5-16.375,29.875,18.438zm20.75-17.312,29.875-18.438,20.5,16.375-29.625,19.375zm29.875-18.438-29.875-18.438,20.75-17.312,29.625,19.312zm-29.875-18.438-29.875,18.438-20.5-16.438,29.625-19.312zm0.0625-12.459-20.812-17.25-8.875,5.8125,0-6.5,29.688-17.812,29.688,17.812,0,6.5-8.875-5.8125z" fill-rule="nonzero" fill="url(#linearGradient3978)"/>
+</g>
+</g>
+<g opacity="0.3" transform="matrix(0.29579679,0,0,0.29103969,-10.912507,3.667566)" stroke="#000" stroke-miterlimit="4" stroke-dasharray="none" stroke-width="3.74643612" fill="none">
+<g transform="matrix(0.5,0,0,-0.5,53.569304,-9.0258576)" stroke="#000" stroke-miterlimit="4" stroke-dasharray="none" stroke-width="7.49287224" fill="none">
+<path stroke-linejoin="round" d="m-0.01361,3.3746-29.625-19.375,20.5-16.375,29.875,18.438zm20.75-17.312,29.875-18.438,20.5,16.375-29.625,19.375zm29.875-18.438-29.875-18.438,20.75-17.312,29.625,19.312zm-29.875-18.438-29.875,18.438-20.5-16.438,29.625-19.312zm0.0625-12.459-20.812-17.25-8.875,5.8125,0-6.5,29.688-17.812,29.688,17.812,0,6.5-8.875-5.8125z" stroke="#000" stroke-linecap="butt" stroke-miterlimit="4" stroke-dasharray="none" stroke-width="7.49287224" fill="none"/>
+</g>
+</g>
+</svg>

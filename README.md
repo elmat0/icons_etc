@@ -1,2 +1,5 @@
 # icons_etc
-Random icons etc. Primarily used as a staging area for merging into elementaryPlus
+
+Random icons, inkscape doodlings etc. 
+
+Primarily used as a static staging area for merging into [elementaryPlus](https://github.com/mank319/elementaryPlus). 
