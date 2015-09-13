@@ -13,9 +13,9 @@
 <stop id="stop3824-1-2-6-7" stop-color="#686868" stop-opacity="0" offset="1"/>
 </radialGradient>
 <radialGradient id="radialGradient3197" gradientUnits="userSpaceOnUse" cy="8.4498" cx="3.9722" gradientTransform="matrix(0,6.3385076,-6.7053845,-1.7252442e-7,121.15923,-25.776663)" r="20">
-<stop id="stop3750-8-9" stop-color="#5dacec" offset="0"/>
-<stop id="stop3752-3-2" stop-color="#4d8dea" offset="0.26238"/>
-<stop id="stop3754-7-2" stop-color="#3659e6" offset="0.70495"/>
+<stop id="stop3750-8-9" stop-color="#78bfec" offset="0"/>
+<stop id="stop3752-3-2" stop-color="#59a2ea" offset="0.26238"/>
+<stop id="stop3754-7-2" stop-color="#3e6ce6" offset="0.70495"/>
 <stop id="stop3756-9-3" stop-color="#2b51a0" offset="1"/>
 </radialGradient>
 </defs>
@@ -33,6 +33,6 @@
 <path id="path2555-7-1" opacity="0.5" stroke-linejoin="round" style="enable-background:accumulate;color:#000000;" d="m64.5,13.998c-28.692,0-52,23.308-52,52s23.308,52,52,52,52-23.308,52-52-23.308-52-52-52z" fill-opacity="0" stroke-dashoffset="0" stroke="#00537d" stroke-linecap="round" stroke-miterlimit="4" stroke-dasharray="none" stroke-width="1"/>
 <path id="path5000" opacity="0.15" fill-rule="evenodd" transform="matrix(1.6491276,0,0,1.6491276,-110.91296,28.726158)" fill="#000" d="m119.58,23.417c0,2.4602-19.175,13.531-21.306,12.301-2.1306-1.2301-2.1306-23.372,0-24.602,2.1306-1.2301,21.306,9.8407,21.306,12.301z"/>
 <path id="path3019" opacity="0.5" stroke-linejoin="round" style="enable-background:accumulate;color:#000000;" d="m115.5,65.998c0,28.167-22.834,51-51,51s-51-22.833-51-51,22.833-51,51-51,51,22.833,51,51z" stroke-dashoffset="0" stroke="url(#linearGradient3118)" stroke-linecap="round" stroke-miterlimit="4" stroke-dasharray="none" stroke-width="1" fill="none"/>
-<path id="path4996" opacity="0.15" d="m119.58,23.417c0,2.4602-19.175,13.531-21.306,12.301-2.1306-1.2301-2.1306-23.372,0-24.602,2.1306-1.2301,21.306,9.8407,21.306,12.301z" fill-rule="evenodd" transform="matrix(1.561799,0,0,1.561799,-101.7203,30.603609)" fill="#000"/>
+<path id="path4996" opacity="0.3" d="m119.58,23.417c0,2.4602-19.175,13.531-21.306,12.301-2.1306-1.2301-2.1306-23.372,0-24.602,2.1306-1.2301,21.306,9.8407,21.306,12.301z" fill-rule="evenodd" transform="matrix(1.561799,0,0,1.561799,-101.7203,30.603609)" fill="#000"/>
 <path id="path4224" fill-rule="evenodd" transform="matrix(1.561799,0,0,1.561799,-101.7203,29.603609)" fill="#fafafa" d="m119.58,23.417c0,2.4602-19.175,13.531-21.306,12.301-2.1306-1.2301-2.1306-23.372,0-24.602,2.1306-1.2301,21.306,9.8407,21.306,12.301z"/>
 </svg>
