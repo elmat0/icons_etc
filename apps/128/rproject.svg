@@ -31,9 +31,9 @@
      showgrid="false"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:zoom="5.464933"
-     inkscape:cx="56.236207"
-     inkscape:cy="60.790424"
+     inkscape:zoom="1.9321456"
+     inkscape:cx="-32.472216"
+     inkscape:cy="82.237807"
      inkscape:window-x="0"
      inkscape:window-y="30"
      inkscape:window-maximized="1"
@@ -148,14 +148,13 @@
          id="stop4011" />
     </linearGradient>
     <linearGradient
-       inkscape:collect="always"
        id="linearGradient3991">
       <stop
          style="stop-color:#8d8c94;stop-opacity:1;"
          offset="0"
          id="stop3993" />
       <stop
-         style="stop-color:#8d8c94;stop-opacity:0;"
+         style="stop-color:#c6c5c9;stop-opacity:1;"
          offset="1"
          id="stop3995" />
     </linearGradient>
@@ -1052,11 +1051,11 @@
        id="linearGradient3772">
       <stop
          id="stop3774"
-         style="stop-color:#808080;stop-opacity:1;"
+         style="stop-color:#d0c7c7;stop-opacity:1;"
          offset="0" />
       <stop
          id="stop3776"
-         style="stop-color:#302828;stop-opacity:1;"
+         style="stop-color:#746e6e;stop-opacity:1;"
          offset="1" />
     </linearGradient>
     <radialGradient
@@ -1117,8 +1116,8 @@
        id="linearGradient3997"
        x1="89.561226"
        y1="68.775612"
-       x2="-58.543198"
-       y2="1.6201681"
+       x2="11.058021"
+       y2="32.62608"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(1.0621349,0,0,1.0622901,-3.976633,3.8058706)" />
     <linearGradient
@@ -1355,14 +1354,6 @@
          style="fill:url(#linearGradient4114);fill-opacity:1;stroke:none" />
     </g>
   </g>
-  <image
-     y="-103.43913"
-     x="3.4902568"
-     id="image5816"
-     xlink:href="file:///home/ho/Pictures/Rlogo.png"
-     height="91.369896"
-     width="117.89664"
-     style="fill:#2064b6;fill-opacity:0.99607843" />
   <path
      style="fill:url(#linearGradient3997);fill-opacity:1;stroke:url(#linearGradient3989);stroke-width:1;stroke-opacity:1"
      d="m 64,22.063981 c -34.521815,0 -62.5,18.683486 -62.5,41.761279 0,23.077794 27.978185,41.79448 62.5,41.79448 34.521813,0 62.5,-18.716686 62.5,-41.79448 C 126.5,40.747467 98.521813,22.063981 64,22.063981 z m 8.762613,16.664676 C 101.01215,38.330184 118.21299,48.119164 119.23101,66.14902 120.35032,85.972726 100.62397,95.758575 72.762613,95.926339 47.885931,96.07613 25.377653,83.173489 25.89591,66.978934 26.420749,50.578744 45.375461,39.114965 72.762613,38.728657 z"
