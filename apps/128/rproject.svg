@@ -116,12 +116,16 @@
     <linearGradient
        id="linearGradient4017">
       <stop
-         style="stop-color:#2064b6;stop-opacity:0.99607843;"
+         style="stop-color:#1f63b4;stop-opacity:0.99607843;"
          offset="0"
          id="stop4019" />
       <stop
+         id="stop4116"
+         offset="0.45244026"
+         style="stop-color:#2768b6;stop-opacity:0.99607843;" />
+      <stop
          id="stop4035"
-         offset="0.81568527"
+         offset="0.70572436"
          style="stop-color:#3d88e2;stop-opacity:0.99607843;" />
       <stop
          id="stop4025"
@@ -1132,9 +1136,9 @@
        xlink:href="#linearGradient4017"
        id="linearGradient4023"
        x1="97.12632"
-       y1="107.82693"
-       x2="97.311317"
-       y2="41.061768"
+       y1="84.058319"
+       x2="97.12632"
+       y2="32.616192"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(1.0621349,0,0,1.0622901,-3.976633,3.8058706)" />
     <linearGradient
