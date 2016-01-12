@@ -31,9 +31,9 @@
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:snap-bbox="true"
-     inkscape:zoom="1.84375"
-     inkscape:cx="224.4968"
-     inkscape:cy="85.825107"
+     inkscape:zoom="2.6074563"
+     inkscape:cx="67.538566"
+     inkscape:cy="108.64734"
      inkscape:window-x="0"
      inkscape:window-y="30"
      inkscape:window-maximized="1"
@@ -163,10 +163,9 @@
      fill="url(#radialGradient3874)" />
   <path
      id="path2555-7-6"
-     fill-rule="nonzero"
-     style="color:#000000;enable-background:accumulate;fill:url(#radialGradient3871)"
-     fill="url(#radialGradient3871)"
-     d="m64.5,13.998c-28.692,0-52,23.308-52,52s23.308,52,52,52,52-23.308,52-52-23.308-52-52-52z" />
+     style="color:#000000;fill:url(#radialGradient3871);fill-rule:nonzero;enable-background:accumulate"
+     d="m 64.883516,13.998 c -28.692,0 -52,23.308 -52,52 0,28.692 23.308,52 52,52 28.692,0 52.000004,-23.308 52.000004,-52 0,-28.692 -23.308004,-52 -52.000004,-52 z"
+     inkscape:connector-curvature="0" />
   <path
      id="path8655-6-1"
      opacity="0.4"
