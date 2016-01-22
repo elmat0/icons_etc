@@ -31,9 +31,9 @@
      showgrid="false"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:zoom="3.4899983"
-     inkscape:cx="4.3435382"
-     inkscape:cy="33.76918"
+     inkscape:zoom="9.8712058"
+     inkscape:cx="79.834562"
+     inkscape:cy="19.525833"
      inkscape:window-x="0"
      inkscape:window-y="30"
      inkscape:window-maximized="1"
@@ -244,7 +244,7 @@
        xlink:href="#linearGradient3820-7-2-8-6"
        id="radialGradient3819"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.67556757,0,0,0.21461693,-3.6079071,68.573331)"
+       gradientTransform="matrix(0.60367081,0,0,0.21461693,-0.99173593,68.573331)"
        cx="99.157013"
        cy="186.17059"
        fx="99.157013"
@@ -568,6 +568,17 @@
        y1="136.37944"
        x2="103.05882"
        y2="20.802431" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3820-7-2-8-6"
+       id="radialGradient3095"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.23750192,0,0,0.19882854,83.913508,70.931084)"
+       cx="99.157013"
+       cy="186.17059"
+       fx="99.157013"
+       fy="186.17059"
+       r="62.769119" />
   </defs>
   <metadata
      id="metadata5162">
@@ -582,10 +593,15 @@
     </rdf:RDF>
   </metadata>
   <path
+     d="m 122.37128,107.94711 a 14.907789,12.480291 0 0 1 -29.815578,0 14.907789,12.480291 0 1 1 29.815578,0 z"
+     id="path3093"
+     style="opacity:0.31697346;fill:url(#radialGradient3095);fill-opacity:1;stroke:none"
+     inkscape:connector-curvature="0" />
+  <path
      inkscape:connector-curvature="0"
      style="fill:url(#radialGradient3819);fill-opacity:1;stroke:none"
      id="path3818-0-5-0"
-     d="m 105.78413,108.52868 a 42.404782,13.471312 0 1 1 -84.809556,0 42.404782,13.471312 0 1 1 84.809556,0 z" />
+     d="m 96.758338,108.52868 a 37.891885,13.471312 0 1 1 -75.783764,0 37.891885,13.471312 0 1 1 75.783764,0 z" />
   <path
      style="color:#000000;fill:url(#linearGradient4046);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
      d="m 67.5,14.001 0,52 47.34375,21.5 c 2.98774,-6.557099 4.65626,-13.831551 4.65625,-21.5 0,-28.691809 -23.308205,-52 -52,-52 z"
