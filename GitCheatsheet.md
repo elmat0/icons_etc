@@ -43,6 +43,6 @@ git branch -d <branch name>
 
 Delete remote branch:
 ```
-git fetch -p
+git push origin:<branch name>
 ```
 
