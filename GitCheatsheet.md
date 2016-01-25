@@ -22,13 +22,8 @@ git checkout -b <new branch>
 Rebase local branch on the latest upstream:
 ```
 git fetch upstream
-git rebase -i upstream/develop <branch name>
-```
+git reset --hard upstream/master
 
-Resolve conflicts when doing the above:
-```
-git add <filename>
-git rebase --continue
 ```
 
 Push local branch up to my fork:
@@ -43,6 +38,6 @@ git branch -d <branch name>
 
 Delete remote branch:
 ```
-git push origin:<branch name>
+git push origin :<branch name>
 ```
 
